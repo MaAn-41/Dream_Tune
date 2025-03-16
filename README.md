@@ -6,12 +6,12 @@ The **AI Lullaby Generator** (DreamTune AI) is a **voice-powered AI tool** that 
 
 ---
 ## 🚀 Features
-✅ **Record & Transcribe:** Sing or hum a short phrase, and AI transcribes it.
-✅ **AI-Generated Lullaby:** Expands your phrase into a **full rhyming lullaby**.
-✅ **Custom AI Singer:** Choose from different AI-generated singing voices.
-✅ **Melody & Background:** AI adds soothing instrumental sounds.
-✅ **Download Lullaby:** Save the final lullaby as an MP3 file.
-✅ **Web-Based Interface:** Simple & easy-to-use Streamlit UI.
+✅ **Record & Transcribe:** Sing or hum a short phrase, and AI transcribes it.<br>
+✅ **AI-Generated Lullaby:** Expands your phrase into a **full rhyming lullaby**.<br>
+✅ **Custom AI Singer:** Choose from different AI-generated singing voices.<br>
+✅ **Melody & Background:** AI adds soothing instrumental sounds.<br>
+✅ **Download Lullaby:** Save the final lullaby as an MP3 file.<br>
+✅ **Web-Based Interface:** Simple & easy-to-use Streamlit UI.<br>
 
 ---
 ## 🛠 Installation & Setup
